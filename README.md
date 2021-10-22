@@ -1,6 +1,11 @@
 # agecalculator
 
-A new Flutter application.
+A age calculator developed using flutter
+
+# features
+ Ability to calculate next birthday
+ Ability to calculate age in years, months, weeks, days, hours, seconds
+ 
 
 ## Getting Started
 
